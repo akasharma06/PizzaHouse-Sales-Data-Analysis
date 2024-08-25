@@ -57,9 +57,9 @@ The database is created using the following four tables, which are constructed f
 - Join the necessary tables to find the total quantity of each pizza category ordered.
 
 ## Instructions for Database Creation
-1. Extract the CSV files from the provided `pizza_sales.zip` archive.
+1. Extract the CSV files from the provided `Pizzahouse_sales.zip` archive.
 2. Import the files into MySQL as tables following the structure defined above.
-3. Ensure the tables are properly joined using appropriate keys to allow for comprehensive queries and analysis.
+3. Ensure the tables are properly joined using appropriate keys for comprehensive queries and analysis.
 
 ## SQL Queries
-The project includes various SQL queries to perform the analysis as per the categories mentioned. Each query addresses specific business questions and provides insights into sales patterns, customer behavior, and pricing strategies.
+The project includes various SQL queries to perform the analysis per the categories mentioned. Each query addresses specific business questions and provides insights into sales patterns, customer behaviour, and pricing strategies.
