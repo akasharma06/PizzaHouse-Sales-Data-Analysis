@@ -1,8 +1,8 @@
 -- 1. Create the Pizzahouse Database
-CREATE DATABASE Pizzahouse;
+CREATE DATABASE pizzahouse;
 
 -- 2. Use the Pizzahouse Database
-USE Pizzahouse;
+USE pizzahouse;
 
 -- 3. Create the order_details Table
 CREATE TABLE order_details (
